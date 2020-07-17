@@ -19,7 +19,15 @@ p{
 img{
     max-width: 100%;
 }
-
+h2{
+    background-color:rgb(136, 77, 0) ;
+    color: blanchedalmond;
+    font-size: 40px;
+    font-weight: normal;
+    border-radius: 40px;
+    font-family:monospace, Helvetica, sans-serif;
+    margin:40px auto;
+}
 /* header------------------------------------------------------------------*/
 header{
     display: flex;
@@ -109,15 +117,7 @@ header{
     font-size: 25px;
     padding-bottom: 30px;
 }
-.text h2{
-    background-color:rgb(136, 77, 0);
-    border-radius: 40px;
-    font-family:monospace, Helvetica, sans-serif;
-    font-size: 40px;
-    font-weight: normal;
-    color: blanchedalmond;
-    margin: 40px 80px;
-}
+
 .text p{
     margin: 0px 36px;
     line-height: 35px;
@@ -138,30 +138,14 @@ header{
     line-height: 78px;
     color:#432;
 }
-.career h2{
-    background-color:rgb(136, 77, 0) ;
-    color: blanchedalmond;
-    font-size: 40px;
-    font-weight: normal;
-    border-radius: 40px;
-    font-family:monospace, Helvetica, sans-serif;
-    margin:40px auto;
-}
+
 .achivement{
     text-align: center;
 }
 .work{
     margin-bottom: 100px;
 }
-.work h2{
-    background-color:rgb(136, 77, 0) ;
-    color: blanchedalmond;
-    font-size: 40px;
-    font-weight: normal;
-    border-radius: 40px;
-    font-family:monospace, Helvetica, sans-serif;
-    margin:40px auto;
-}
+
 .work p{
     margin: 40px 0;
 }
@@ -182,15 +166,7 @@ header{
 .contact{
     text-align: center;
 }
-.contact h2{
-    background-color:rgb(136, 77, 0) ;
-    color: blanchedalmond;
-    font-size: 40px;
-    font-weight: normal;
-    border-radius: 40px;
-    font-family:monospace, Helvetica, sans-serif;
-    margin:40px auto;
-}
+
 .contact h3{
     font-size: 25px;
     font-weight: normal;
