@@ -13,7 +13,7 @@ The reason for making this site is that I want more and more people to know what
 * to.u.mak.2000.5.6@icloud.com
 
 ## Lisence
-This project is lisenced under the MIT Lisence - see the [LISENCE](https://kinopppp.github.io/my_web_site001/LISENCE) file for detail
+This project is lisenced under the MIT Lisence - see the [LISENCE](https://github.com/kinopppp/my_web_site001/blob/master/LICENSE) file for detail
 
 
 
