@@ -13,8 +13,7 @@ Git 2.27.0
 * to.u.mak.2000.5.6@icloud.com
 
 ## Lisence
-This project is lisenced under the MIT Lisence - see the [LISENCE](https://kinopppp.github.io/my_web_site001/
-LISENCE)file for detail
+This project is lisenced under the MIT Lisence - see the [LISENCE](https://kinopppp.github.io/my_web_site001/LISENCE)file for detail
 
 
 
