@@ -12,7 +12,7 @@ Git 2.27.0
 
 ##Author
 * Toma Kinoshita
-*　to.u.mak.2000.5.6@icloud.com
+* to.u.mak.2000.5.6@icloud.com
 
 ##Lisence
 This project is lisenced under the MIT Lisence - see the [LISENCE.md]file for detail
