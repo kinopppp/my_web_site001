@@ -19,15 +19,7 @@ p{
 img{
     max-width: 100%;
 }
-h2{
-    background-color:rgb(136, 77, 0) ;
-    color: blanchedalmond;
-    font-size: 40px;
-    font-weight: normal;
-    border-radius: 40px;
-    font-family:monospace, Helvetica, sans-serif;
-    margin:40px auto;
-}
+
 /* header------------------------------------------------------------------*/
 header{
     display: flex;
@@ -117,7 +109,15 @@ header{
     font-size: 25px;
     padding-bottom: 30px;
 }
-
+.text h2{
+    background-color:rgb(136, 77, 0);
+    border-radius: 40px;
+    font-family:monospace, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    color: blanchedalmond;
+    margin: 40px 80px;
+}
 .text p{
     margin: 0px 36px;
     line-height: 35px;
@@ -138,14 +138,30 @@ header{
     line-height: 78px;
     color:#432;
 }
-
+.career h2{
+    background-color:rgb(136, 77, 0) ;
+    color: blanchedalmond;
+    font-size: 40px;
+    font-weight: normal;
+    border-radius: 40px;
+    font-family:monospace, Helvetica, sans-serif;
+    margin:40px auto;
+}
 .achivement{
     text-align: center;
 }
 .work{
     margin-bottom: 100px;
 }
-
+.work h2{
+    background-color:rgb(136, 77, 0) ;
+    color: blanchedalmond;
+    font-size: 40px;
+    font-weight: normal;
+    border-radius: 40px;
+    font-family:monospace, Helvetica, sans-serif;
+    margin:40px auto;
+}
 .work p{
     margin: 40px 0;
 }
@@ -166,7 +182,15 @@ header{
 .contact{
     text-align: center;
 }
-
+.contact h2{
+    background-color:rgb(136, 77, 0) ;
+    color: blanchedalmond;
+    font-size: 40px;
+    font-weight: normal;
+    border-radius: 40px;
+    font-family:monospace, Helvetica, sans-serif;
+    margin:40px auto;
+}
 .contact h3{
     font-size: 25px;
     font-weight: normal;
@@ -174,10 +198,14 @@ header{
 }
 input,textarea{
     width:300px;
-    margin-bottom:30px;
     padding:20px;
+    margin-bottom: 40px;
     font-size:15px;
     border:1px solid #dee7ec;
+}
+.send{
+    padding: 10px;
+    border-radius: 20px;
 }
 .follow-me {
     list-style: none;
@@ -235,6 +263,18 @@ footer p{
     padding-top: 90px;
     color: beige;
 }
+.fade_off {
+    opacity: 0;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    -ms-transition: all 1s;
+    transition: all 1s;
+}
+
+.fade_on {
+    opacity: 1;
+}
 @media all and (max-width:950px){
     .content{
         flex-direction: column;
@@ -251,7 +291,6 @@ footer p{
 }
 
 @media all and (max-width:800px){
-    }
     .main-nav{
         display: none;
     }
@@ -261,4 +300,5 @@ footer p{
     .follow-me{
         margin-left: auto;
     }
+
 }
